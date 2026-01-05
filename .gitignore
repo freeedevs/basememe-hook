@@ -1,0 +1,6 @@
+/out/
+/cache/
+/.foundry/
+.env
+.env.*
+!.env.example
